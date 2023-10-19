@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "Hello 😃!", 
+    "test": "Yo 😃!", 
     "dev" : "tailwindcss -i ./src/input.css -o ./public/style.css --watch"
   },
   "keywords": [],

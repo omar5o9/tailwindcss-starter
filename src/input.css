@@ -4,6 +4,6 @@
 @tailwind utilities;
 
 /* Your Awesome Styles */
-* {
-    outline: 1px dotted gray;
-}
+/* * {
+    outline: 10px dotted rgb(251, 60, 248);
+} */
